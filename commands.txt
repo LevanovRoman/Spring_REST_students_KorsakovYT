@@ -5,3 +5,7 @@ docker run -d -p 8080:8080 myregistry/myorg/demo:latest
 docker-compose -f docker-compose.yml up -d
 
 docker-compose -f docker-compose.yml down
+
+docker volume ls
+
+springstudents_korsakovyt_db_data
