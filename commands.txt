@@ -1,0 +1,7 @@
+docker buildx build --tag  myregistry/myorg/demo:latest .
+
+docker run -d -p 8080:8080 myregistry/myorg/demo:latest
+
+docker-compose -f docker-compose.yml up -d
+
+docker-compose -f docker-compose.yml down

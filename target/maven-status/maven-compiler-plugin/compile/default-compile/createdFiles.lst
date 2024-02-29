@@ -1,0 +1,8 @@
+com\example\springstudents_KorsakovYT\service\StudentService.class
+com\example\springstudents_KorsakovYT\controller\StudentController.class
+com\example\springstudents_KorsakovYT\repository\StudentRepository.class
+com\example\springstudents_KorsakovYT\service\Impl\StudentServiceImpl.class
+com\example\springstudents_KorsakovYT\model\Student.class
+com\example\springstudents_KorsakovYT\service\Impl\InMemoryStudentServiceImpl.class
+com\example\springstudents_KorsakovYT\repository\InMemoryStudentDAO.class
+com\example\springstudents_KorsakovYT\SpringstudentsKorsakovYtApplication.class

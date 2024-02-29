@@ -3,8 +3,6 @@ package com.example.springstudents_KorsakovYT.controller;
 import com.example.springstudents_KorsakovYT.model.Student;
 import com.example.springstudents_KorsakovYT.service.StudentService;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
