@@ -9,3 +9,11 @@ docker-compose -f docker-compose.yml down
 docker volume ls
 
 springstudents_korsakovyt_db_data
+
+{
+        "firstname": "admin565",
+        "lastname": "admin4365",
+        "dateOfBirth": "1980-11-11",
+        "email": "45admin4@qw.com"
+    }
+
